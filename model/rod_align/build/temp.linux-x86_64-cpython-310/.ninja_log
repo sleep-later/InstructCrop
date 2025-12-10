@@ -1,0 +1,3 @@
+# ninja log v5
+0	23390	1726799938665601383	/mnt/xiangfei/LISA/model/Grid-Anchor-based-Image-Cropping-Pytorch/rod_align/build/temp.linux-x86_64-cpython-310/src/rod_align_kernel.o	898655bee53cca1b
+0	24573	1726799939737585490	/mnt/xiangfei/LISA/model/Grid-Anchor-based-Image-Cropping-Pytorch/rod_align/build/temp.linux-x86_64-cpython-310/src/rod_align_cuda.o	79daa2478e8b5c3
