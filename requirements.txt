@@ -1,0 +1,21 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.2
+torchvision==0.16.2
+packaging==24.1
+sentencepiece==0.1.99
+peft==0.12.0
+einops==0.6.1
+fastapi==0.112.2
+gradio==4.16.0
+markdown2==2.5.0
+numpy==1.26.4
+opencv_python==4.8.0.74
+Pillow==10.4.0
+pycocotools==2.0.6
+Requests==2.32.3
+shortuuid==1.0.13
+tqdm==4.66.5
+transformers==4.34.0
+uvicorn==0.30.6
+scipy==1.14.1
+bitsandbytes==0.43.3
